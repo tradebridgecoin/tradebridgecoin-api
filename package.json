@@ -1,0 +1,18 @@
+{
+  "name": "tradebridgecoinclient_api",
+  "version": "0.1.0",
+  "dependencies": {
+    "bip39": "^2.5.0",
+    "console-stamp": "latest",
+    "each-cons": "latest",
+    "ethereumjs-wallet": "^0.6.0",
+    "http": "latest",
+    "https": "latest",
+    "jsdom": "^11.12.0",
+    "moment-timezone": "latest",
+    "node-gyp": "^3.8.0",
+    "sqlite3": "^4.0.3",
+    "sync-request": "6.0.0",
+    "web3": "1.0.0-beta.35"
+  }
+}
