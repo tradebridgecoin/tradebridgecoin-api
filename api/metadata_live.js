@@ -3,10 +3,10 @@ module.exports = Object.freeze({
         appName: 'tradebridgecoinclient',
         response: 'success',
         net: 'LIVE',
-        message: 'assets that are eligible to be made market for',
+        message: '',
         updateTime: '2018-07-25 12:34:52',
-        tokenAddress: '0xf80b38198a7803990662e8aa53ff42117c5ad29f', //new : '0x2b8fbbdf43a05f24f0713886b10d14fd2134dc53',
-        tokenStartBlockNumber: 7069539,
+        tokenAddress: '0x1730a61cbeceebf689757c2e4ae096a434c2f3f2',
+        tokenStartBlockNumber: 7242571,
         data: {
             supportedCategories: ['1', '2', '3', '4'],
             categories: {
